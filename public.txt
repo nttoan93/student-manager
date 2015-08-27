@@ -1,1 +1,9 @@
 Nguyen Minh Hien
+--->> Commit
+git add file/ -A
+git commmit -m "Note"
+git push
+git status
+
+<--- update
+git pull
